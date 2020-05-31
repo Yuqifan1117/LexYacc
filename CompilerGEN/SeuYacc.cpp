@@ -1,6 +1,6 @@
 //	  file : SeuYacc.h
 // content : syntax analyze tool class
-//	  date : 2020/5/23
+//	  date : 2020/5/22
 //  author : Yuqifan
 //  @COPYRIGHT  : School of Computer Science & Engineering Southeast University
 
