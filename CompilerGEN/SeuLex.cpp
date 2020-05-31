@@ -1,7 +1,7 @@
 //	  file : SeuLex.cpp
 // content : lexical analyze tool class    
-//	  date : 2017/4/23
-//  author : Wangduo
+//	  date : 2020/5/31
+//  author : Yuqifan
 //  @COPYRIGHT  : School of Computer Science & Engineering Southeast University
 
 #ifndef _SEU_LAX_CPP
