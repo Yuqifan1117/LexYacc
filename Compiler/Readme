@@ -1,1 +1,8 @@
+生成编译器之后编译文件时下推自动机的实现和中间代码生成的部分实现 …
+输出语法树、token序列、规约产生式、中间代码、汇编代码、符号表
 
+
+Compiler使用说明
+Step 1: 使用cmd命令行进入CompilerGen.exe所在目录
+Step 2: 输入 Compiler test.cpp 回车 (test.cpp为所要编译的目标文件)
+    目录下出现 token_list.txt 分词序列，reduce_sequence.txt规约序列, symbol_table_file.txt符号表，middle_code.txt中间代码 目标代码code.asm文件
